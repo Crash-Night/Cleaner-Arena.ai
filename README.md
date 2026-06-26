@@ -10,10 +10,7 @@ Herramienta no oficial para borrar en masa conversaciones archivadas de Arena.ai
 
 # Video de Demostracion
 
-<video src="tutorial.mp4" controls width="800" style="max-width: 100%;">
-  Tu navegador no soporta videos HTML5.
-  <a href="tutorial.mp4">Descarga el video</a>
-</video>
+https://github.com/user-attachments/assets/adf98bf4-ce03-42e8-b023-51dffad515f5
 
 # 🚀 ¿Cómo Funciona? 
 
